@@ -2,5 +2,7 @@
 
 ## Sistema desenvolvido para gerenciamento de múltiplos arquivos Excel.
 
-### Funcionalidades
+### Funcionalidades:
+- Cadastro de registro;
+- Atualização de registro;
 
