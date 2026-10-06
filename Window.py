@@ -377,10 +377,6 @@ class Window(QtWidgets.QWidget):
 
         pdf.add_page()
 
-        logo_path = self.resource_path("./assets/logos/Logo.png")
-
-        if os.path.exists(logo_path):
-            pdf.image(logo_path, x=15, y=5, w=40)
 
         # ===== TÍTULO =====
         pdf.set_font('Helvetica', 'B', 24)
