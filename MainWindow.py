@@ -8,7 +8,7 @@ import VoucherWindow
 class MainWindow(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()  
-        self.setWindowTitle("Sistema MicroBOT")
+        self.setWindowTitle("SistemaExcel")
         self.showMaximized()
 
         menu = QHBoxLayout()
